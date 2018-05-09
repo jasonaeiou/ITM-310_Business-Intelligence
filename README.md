@@ -1,2 +1,2 @@
 # ITM-310_Business-Intelligence
-course curriculum repository_Boise State University (BSU), College of Business and Economics (COBE)
+course supporting materials and projects_Boise State University (BSU), College of Business and Economics (COBE)
